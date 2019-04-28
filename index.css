@@ -10,12 +10,12 @@
   margin-top: 1vh;
   width: 35vw;
   font-size: 1em;
-  height: 5vh;
-  border-radius: 3em;
+  height: 6vh;
+  border-radius: 2em;
 }
 
 #dog-bar {
-  height: 15vh;
+  height: 20vh;
   background: skyblue;
   display: flex;
   justify-content: space-around;
